@@ -5,6 +5,7 @@ title: '[BUG] '
 labels: 'bug'
 assignees: ''
 ---
+
 ## 问题描述
 简明扼要地描述这个 bug。
 2. 功能请求模板
